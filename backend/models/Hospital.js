@@ -23,7 +23,7 @@ const HospitalSchema = new mongoose.Schema({
     postalcode:{
         type: String,
         required: [true, 'Please add a postal code'],
-        maxlength: [5, 'Postal code can not be more than 5 characters']
+        maxlength: [5, 'Postal Code can not be more than 5 characters']
     },
     tel:{
         type: String,

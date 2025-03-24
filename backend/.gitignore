@@ -2,3 +2,8 @@
 node_modules/*
 # ignore config file
 config/config.env
+# igmore test file
+VacQ_test4.json
+VacQ_test5.json
+VacQ_test6.json
+VacQ_test7.json
